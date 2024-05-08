@@ -1,3 +1,11 @@
 # Estructuras-de-datos-y-algoritmos
-Implementacion de de distintas esctructuras de datos mediante java. incluye distintas implemetnaciones de listas, grafos, mapeos, entre otros, como tambien algoritmos varios de busqueda y distancias minimas
+Conjunto de Implementaciones de distintas estructuras de datos en Java.
+Contiene:
+  -Impementacion de listas
+  -Implematacnion de cola
+  -Implementacion de pila
+  -Implementacion de mapeos
+  -Implementacion de grafos
+Junto con esto aparecen distinto algoritmos implementados, propios de cada estructura  
+  
 
